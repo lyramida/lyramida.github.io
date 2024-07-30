@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am Shen Letian from the University of Science and Technology of China.
+我是沈乐天。这个网站还很简陋，大部分内容还没有配上英文版，但我希望把更丰富的一面呈现在这里。
